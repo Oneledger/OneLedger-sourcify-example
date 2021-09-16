@@ -1,0 +1,13 @@
+node_modules/
+build/
+coverage/
+coverage.json
+coverageEnv
+.vscode/
+.env
+*.r1cs
+*.sym
+*.wasm
+artifacts/
+cache/
+.DS_Store
